@@ -1,0 +1,1 @@
+# GreenDao3.2
